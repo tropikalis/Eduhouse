@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    margin: 0;
+    min-height: 100vh;
+    background-color: bisque;
+}
+
+aside {  
+}
+
+main {
+    background-color: white;
+}
+
+
+
+
+
